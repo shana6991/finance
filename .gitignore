@@ -1,0 +1,5 @@
+*.log 
+AppData/ 
+Downloads/ 
+__pycache__/ 
+.vscode/ 
